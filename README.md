@@ -1,7 +1,3 @@
-Berikut contoh template README untuk proyek Facial Expression Recognition (FER):
-
----
-
 # Facial Expression Recognition (FER) Project
 
 ## Project Overview
