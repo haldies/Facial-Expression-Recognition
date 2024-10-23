@@ -1,0 +1,5 @@
+
+!notebook.ipynb
+.venv/
+data.zip
+extracted_data/
